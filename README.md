@@ -1,4 +1,4 @@
-# RPS
+# RPS, instalacija
 
 # spring
 
