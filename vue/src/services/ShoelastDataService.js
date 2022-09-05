@@ -63,13 +63,7 @@ class ShoelastDataService {
 
   getImage(id) {
 
-    let user = JSON.parse(localStorage.getItem('user'));
     
-    if (user && user.accessToken) {
-    } else {
-      console.log("NEMA GA USER")
-    }
-
     
     var standardHeader = authHeader()
 
