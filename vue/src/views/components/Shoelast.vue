@@ -46,10 +46,6 @@
     <p>{{ message }}</p>
   </div>
 
-  <div v-else>
-    <br />
-    <p>Mislim da je ovo ovde nepotrebno.</p>
-  </div>
 </template>
 
 <script>
